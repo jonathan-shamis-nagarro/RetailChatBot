@@ -43,7 +43,7 @@ The system is intelligent enough to generate accurate queries for given question
 ```bash
   GOOGLE_API_KEY="your_api_key_here"
 ```
-4. For database setup, run database/db_creation_atliq_t_shirts.sql in your MySQL workbench
+4. For database setup, run database/db_creation_atliq_t_shirts.sql in the local instance of your MySQL workbench
 
 ## Usage
 
