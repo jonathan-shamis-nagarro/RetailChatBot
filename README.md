@@ -1,4 +1,10 @@
-Once you clone this repo, be sure to create a .env file and add your Google API key in the following format:
+Once you clone this repo, type the following command into your terminal to install all dependencies:
+
+```python
+pip install -r requirements.txt
+```
+
+Be sure to create a .env file and add your Google API key in the following format:
 
 ```python
 GOOGLE_API_KEY='your API key here'
